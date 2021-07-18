@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bridgelabz.employeepayrollappspring.EmployeePayrollAppSpringApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.778 s - in com.bridgelabz.employeepayrollappspring.EmployeePayrollAppSpringApplicationTests
